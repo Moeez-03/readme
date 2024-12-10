@@ -65,3 +65,5 @@ if (dpm.isDeviceOwnerApp(getPackageName())) {
     Log.e("SplashScreenActivity", "App is not a device owner.");
 }
 ```
+```
+```
